@@ -18,21 +18,21 @@ Suppose the original array is:
 | 4 | 5 | 6 | 
 | 7 | 8 | 9 | 
 
-then TODO 2. would look like:
+then TODO 2. should look like:
 <pre>
  1  2  3 
  4  5  6  
  7  8  9 
 </pre>
 
-and TODO 3. would look like:
+and TODO 3. should look like:
 <pre>
  7  8  9 
  4  5  6  
  1  2  3 
 </pre>
 
-and TODO 4. would look like:
+and TODO 4. should look like:
 <pre>
  3  2  1 
  6  5  4  
@@ -42,5 +42,5 @@ and TODO 4. would look like:
 and TODO 5. should look like
 
 <pre>
-The array is a magic square
+The array is not a magic square
 </pre>
