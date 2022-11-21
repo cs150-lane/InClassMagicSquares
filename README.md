@@ -13,10 +13,9 @@ This is an activity to be done in pairs!
 
 Suppose the original array is:
 
-| 1  | 2 | 3 |
-| --- | --- | --- |
-| 4 | 5 | 6 | 
-| 7 | 8 | 9 | 
+&nbsp;  &nbsp; 1 &nbsp; 2 &nbsp; 3 <br>
+&nbsp;  &nbsp; 4 &nbsp; 5 &nbsp; 6 <br>
+&nbsp;  &nbsp; 7 &nbsp; 8 &nbsp; 9 <br>
 
 then TODO 2. should look like:
 <pre>
@@ -39,7 +38,7 @@ and TODO 4. should look like:
  9  8  7 
 </pre>
 
-and TODO 5. should look like
+and TODO 5. should look like:
 
 <pre>
 The array is not a magic square
