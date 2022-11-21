@@ -37,12 +37,12 @@ int main () {
 
 
 
-	// TODO #3: Print the square to the screen right to left (right 
+	// TODO #4: Print the square to the screen right to left (right 
 	//					column first, then middle column, then left column)
 
 
 
-	// TODO #4: Check to see if square is a Magic Square (the rows 
+	// TODO #5: Check to see if square is a Magic Square (the rows 
 	// 					and columns sum to 15
 
 
